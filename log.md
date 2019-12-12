@@ -5,3 +5,9 @@
 **Today's Progress**: I learned pandas and taking course about different machine learning algorithms in Kaggle.
 
 **Thoughts** I feel pretty good about myself. I think I learned a lot today. Going to do this for 99 more days at least.
+
+### Day 2: December 12, 2019 
+
+**Today's Progress**: I continued the intermediate machine learning course in Kaggle and also researched about different parameters in scikit tools.
+
+**Thoughts** Today was little bit more exhausting than yesterday. This took time. Still got to finish 3 more lessons, which I might complete by tomorrow. 
