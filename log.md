@@ -18,3 +18,8 @@
 **Today's Progress**: I completed the intermediate machine learning course in Kaggle and took part in the competition.
 
 **Thoughts** Oh boy, learning was way smoother than applying this in the competition. I am stuck for now. I have already done for 4 hours straight, I didn't even know that. Now time for rest and I'll continue this tomorrow. 
+
+
+### Day 3: December 15, 2019 
+
+**Today's Progress**: I couldn't do much as I have tomorrow. So I explored more about machine learning algorithms, learnt about some deep learning model and understood how CNN works. Also understood about ReLU activation function. I will continue this as soon as I can.
